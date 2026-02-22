@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![0486150C-8E07-4C54-9088-C76A411E3E9F](https://github.com/user-attachments/assets/2b31689f-40fd-4967-84e0-637bd28c5986)
 
 <!--
 **creamswda/creamswda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
